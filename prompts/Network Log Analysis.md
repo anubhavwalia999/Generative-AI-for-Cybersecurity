@@ -1,7 +1,7 @@
 ## 🎯 Objective: Network log analysis for threat intelligence
 
 ### 🔹 Prompt: Examine the following network log. Identify the destination IP address with the highest outbound traffic and list associated port numbers.
-
+### Network logs: [netlogs.txt](https://github.com/user-attachments/files/20445207/netlogs.txt)
 
 # 🧠 Network Traffic Analysis Report
 
