@@ -2,7 +2,6 @@
 
 ### 🔹 Prompt: Examine the following network log. Identify the destination IP address with the highest outbound traffic and list associated port numbers.
 
-You're a malware analyst. Analyze the following Python code snippet. Decode its purpose and outline the risks.
 
 # 🧠 Network Traffic Analysis Report
 
