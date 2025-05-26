@@ -24,10 +24,3 @@ Investigate and respond to phishing, malware, and network-based attacks using ge
 **Result:**  
 Demonstrated the effectiveness of LLMs in cybersecurity incident handling and threat intelligence.
 
-## Folder Structure
-
-- `email_prompt_analysis.md` – Prompts and analysis results for phishing email detection.
-- `malware_code_analysis.md` – Malware reverse engineering and ChatGPT output.
-- `network_log_analysis.md` – Findings from suspicious network log investigation.
-- `incident_report.md` – Final incident summary and timeline.
-- `phishing_malware_playbook.md` – Response playbook generated using ChatGPT.
