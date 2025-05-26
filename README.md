@@ -6,7 +6,7 @@
 
 This project simulated a cybersecurity incident at a fictional nuclear power organization. The goal was to investigate and respond to a sophisticated phishing and malware attack using generative AI technologies.
 
-## STAR Format Summary
+## Summary
 
 **Situation:**  
 Tasked with securing a simulated nuclear power organization from cyber threats.
