@@ -1,3 +1,4 @@
+## Incident Summary
 ### 🔹 Prompt: Write a professional cybersecurity incident report summarizing suspicious activity found in the following log. Highlight threat source, impacted systems, and severity.
 
 ## 🧾 Incident Summary: Simulated Cyberattack on Nuclear Energy Org
